@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709032206991",
+    "project_id": "photoflutter-50f29",
+    "storage_bucket": "photoflutter-50f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709032206991:android:28c6a8d0a56a0308de86fa",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709032206991-gu2o9kc4atudl7r39q81tegg4pe85bsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photo",
+            "certificate_hash": "de8c87344130405abfaf18a2f44cd4857f0798f7"
+          }
+        },
+        {
+          "client_id": "709032206991-e14esh6u2ufcc5msccs3m670t4ii43j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0RF_gu4-8vi17jmrctHc3dtjIXDHTx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709032206991-e14esh6u2ufcc5msccs3m670t4ii43j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
